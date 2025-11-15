@@ -29,3 +29,4 @@ target
 *.war
 *.ear
 
+jodconverter-core/pom.xml.versionsBackup

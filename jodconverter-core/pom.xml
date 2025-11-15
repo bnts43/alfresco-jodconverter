@@ -4,7 +4,7 @@
 
   <groupId>org.alfresco</groupId>
   <artifactId>alfresco-jodconverter-core</artifactId>
-  <version>3.0.1.21-SNAPSHOT</version>
+  <version>3.0.1.21</version>
   <packaging>jar</packaging>
 
   <parent>
